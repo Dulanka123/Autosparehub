@@ -1,59 +1,91 @@
-# 🚗 AutoSpareHub – Spare Parts Management & Purchase System
+# AutoSpareHub – Spare Parts Management & Purchase System
 
-## 👨‍🎓 Student Details
-- **Name:** Dulanka Gayan Weerathunga
-- **Student ID:** 241722016
+---
+
+## 👨‍🎓 Student Information
+**Name:** Dulanka Gayan Weerathunga  
+**Student ID:** 241722016  
 
 ---
 
 ## 📌 Project Description
-**AutoSpareHub** is a RESTful API-driven full-stack system designed for an automobile spare parts store.  
-The project enables **inventory management, customer purchases, and administrative operations** with secure role-based access control.
-
-This system ensures:
-- Efficient spare parts catalog & stock management
-- Customer-friendly browsing and order placement
-- Admin dashboard with analytics and reports
-- Notifications for low stock and order confirmation
+The **AutoSpareHub – Spare Parts Management & Purchase System** is designed to streamline the spare parts inventory, purchasing, and management process for automobile spare parts businesses.  
+This project provides a RESTful API-driven backend built with Spring Boot and MySQL, ensuring efficient data handling and secure transactions. It also supports role-based access for both customers and administrators, enabling smooth day-to-day operations such as spare part listing, order placement, stock management, and generating reports.  
 
 ---
 
-## ✨ Key Features
-- 🔑 **Authentication & Authorization**
-    - User Registration & Login (JWT Authentication)
-    - Role-based access (Admin, Staff, Customer)
+## 🎯 Project Objectives
+- To develop a reliable and scalable backend system for managing spare parts.  
+- To simplify purchasing and inventory management through automation.  
+- To provide customers with an easy way to browse and order spare parts.  
+- To offer administrators insights with reports and dashboards.  
 
-- 📊 **Admin Dashboard**
-    - Manage users & staff
-    - View analytics & reports
+---
 
-- ⚙️ **Spare Parts Management**
-    - Add, update, delete, and view spare parts
-    - Stock monitoring with low-stock alerts
-
-- 🛒 **Customer Features**
-    - Browse & search spare parts
-    - Cart management & checkout
-    - Order history tracking
-
-- 📦 **Order Handling**
-    - Order confirmation notifications
-    - Auto stock deduction after purchase
-
-- 📑 **Reports**
-    - Daily and monthly sales reports
+## 🚀 Features
+- User authentication and role-based access control (Admin & Customer).  
+- Spare parts catalog management (Add, Update, Delete, View).  
+- Order management (Place, Track, Manage orders).  
+- Stock management with low-stock notifications.  
+- Payment and invoice generation system.  
+- Admin dashboard for monitoring sales and generating reports.  
+- RESTful API with structured endpoints for frontend integration.  
 
 ---
 
 ## 🛠️ Technologies Used
-- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
-- **Frontend:** (React / Angular / Vue – depending on your implementation)
-- **Database:** MySQL
-- **API Documentation:** Swagger / OpenAPI
-- **Build Tool:** Maven
-- **Testing:** JUnit
-- **Other Tools:** Postman, Git/GitHub
+- **Backend:** Java, Spring Boot  
+- **Database:** MySQL  
+- **Frontend:** HTML, CSS, JavaScript (for demo UIs)  
+- **Other Tools:** Postman (API testing), GitHub (Version control)  
 
 ---
 
-## 📂 Repository Structure
+## 📸 Screenshots
+### 1. Home Page  
+![Home Page](screenshots/home.png)
+
+### 2. Admin Dashboard  
+![Dashboard](screenshots/dashboard.png)
+
+### 3. Spare Parts Management Form  
+![Spare Parts Form](screenshots/spareparts_form.png)
+
+### 4. Order Management  
+![Order Management](screenshots/orders.png)
+
+---
+
+## ⚙️ Setup Instructions
+
+### 🔹 Backend Setup (Spring Boot + MySQL)
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/AutoSpareHub.git
+Import the project into IntelliJ IDEA / Eclipse.
+
+Configure the application.properties file:
+
+properties
+Copy code
+spring.datasource.url=jdbc:mysql://localhost:3306/autosparehub
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+spring.jpa.hibernate.ddl-auto=update
+Run the Spring Boot application.
+
+🔹 Frontend Setup
+Navigate to the frontend/ folder.
+
+Open index.html in a browser.
+
+Ensure API endpoints in JavaScript match your backend URLs.
+
+🎥 Demo Video
+👉 Click Here to Watch the Demo Video
+
+👨‍💻 Author
+Dulanka Gayan Weerathunga
+Advanced API Development (AAD) – Individual Assignment
+Institute of Software Engineering (IJSE)
+
