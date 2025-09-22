@@ -52,7 +52,7 @@ This project provides a RESTful API-driven backend built with Spring Boot and My
 ![Spare Parts Form](screenshots/spareparts_form.png)
 
 ### 4. Order Management  
-![Order Management](screenshots/orders.png)
+![Order Management](https://github.com/Dulanka123/Autosparehub/blob/43ab6ebc8940ae9f12c0fbc7af78bf78b24174a1/Screenshot%202025-09-21%20225910.png)
 
 ---
 
