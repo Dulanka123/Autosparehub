@@ -43,7 +43,7 @@ This project provides a RESTful API-driven backend built with Spring Boot and My
 
 ## 📸 Screenshots
 ### 1. Home Page  
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/Dulanka123/Autosparehub/blob/8333a9fb0dcdb30366205153ca8f6f7a49ef9b8a/Screenshot%202025-09-21%20225556.png)
 
 ### 2. Admin Dashboard  
 ![Dashboard](https://github.com/Dulanka123/Autosparehub/blob/92b0c89b41b626e2a80ad3ce680c7fc4119dde98/Screenshot%202025-09-21%20225847.png)
