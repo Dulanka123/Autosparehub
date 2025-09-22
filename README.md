@@ -49,7 +49,7 @@ This project provides a RESTful API-driven backend built with Spring Boot and My
 ![Dashboard](https://github.com/Dulanka123/Autosparehub/blob/92b0c89b41b626e2a80ad3ce680c7fc4119dde98/Screenshot%202025-09-21%20225847.png)
 
 ### 3. Spare Parts Management Form  
-![Spare Parts Form](screenshots/spareparts_form.png)
+![Spare Parts Form](https://github.com/Dulanka123/Autosparehub/blob/7e4dca2a54c92f3651ed604fc61c4f72e19174b7/Screenshot%202025-09-21%20225822.png)
 
 ### 4. Order Management  
 ![Order Management](https://github.com/Dulanka123/Autosparehub/blob/43ab6ebc8940ae9f12c0fbc7af78bf78b24174a1/Screenshot%202025-09-21%20225910.png)
@@ -82,7 +82,7 @@ Open index.html in a browser.
 Ensure API endpoints in JavaScript match your backend URLs.
 
 🎥 Demo Video
-👉 Click Here to Watch the Demo Video
+👉 https://youtu.be/iibL13z9IXs?si=HE_GeH2jf5Ck9iEx
 
 👨‍💻 Author
 Dulanka Gayan Weerathunga
