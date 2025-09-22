@@ -46,7 +46,7 @@ This project provides a RESTful API-driven backend built with Spring Boot and My
 ![Home Page](screenshots/home.png)
 
 ### 2. Admin Dashboard  
-![Dashboard]([screenshots/dashboard.png](https://github.com/Dulanka123/Autosparehub/blob/92b0c89b41b626e2a80ad3ce680c7fc4119dde98/Screenshot%202025-09-21%20225847.png))
+![Dashboard](https://github.com/Dulanka123/Autosparehub/blob/92b0c89b41b626e2a80ad3ce680c7fc4119dde98/Screenshot%202025-09-21%20225847.png)
 
 ### 3. Spare Parts Management Form  
 ![Spare Parts Form](screenshots/spareparts_form.png)
